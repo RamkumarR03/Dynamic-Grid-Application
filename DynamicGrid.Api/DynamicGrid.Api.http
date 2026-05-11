@@ -1,0 +1,6 @@
+@DynamicGrid.Api_HostAddress = http://localhost:5213
+
+GET {{DynamicGrid.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
